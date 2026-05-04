@@ -70,26 +70,26 @@ This application was built as an AI Assessment project to demonstrate:
 
 # 🗂 Folder Structure
 
-TaskForge/
-│
-├── backend/
-│ ├── config/
-│ ├── controllers/
-│ ├── middleware/
-│ ├── models/
-│ ├── routes/
-│ ├── utils/
-│ └── server.js
-│
-├── frontend/
-│ ├── src/
-│ │ ├── api/
-│ │ ├── components/
-│ │ ├── context/
-│ │ ├── pages/
-│ │ └── App.jsx
-│
-└── README.md
+TaskForge/<br>
+│<br>
+├── backend/<br>
+│ ├── config/<br>
+│ ├── controllers/<br>
+│ ├── middleware/<br>
+│ ├── models/<br>
+│ ├── routes/<br>
+│ ├── utils/<br>
+│ └── server.js<br>
+│<br>
+├── frontend/<br>
+│ ├── src/<br>
+│ │ ├── api/<br>
+│ │ ├── components/<br>
+│ │ ├── context/<br>
+│ │ ├── pages/<br>
+│ │ └── App.jsx<br>
+│<br>
+└── README.md<br>
 
 ---
 
